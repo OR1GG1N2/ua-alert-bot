@@ -3,7 +3,7 @@ name: Ідея покращення сервісу
 about: Ідея покращення сервісу
 title: "Ідея покращення сервісу"
 labels: Ідея
-assignees: OR1GG1N2 Ідея
+assignees: OR1GG1N2
 
 ---
 
